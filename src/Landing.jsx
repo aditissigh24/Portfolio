@@ -13,7 +13,7 @@ export default function Landing() {
                 seamless user experience.
             </h1>
             <button className ="water-button px-14 py-4 z-10 bg-red-500 font-semibold text-lg mr-[3 vw] mt-12 text-white rounded-full">
-                Projects 
+                More on Projects
             </button>
     </div>
   )
